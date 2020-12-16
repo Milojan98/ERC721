@@ -1,5 +1,7 @@
 # ERC721
 
+## :page_with_curl: Tasks:
+
 :heavy_check_mark: Create a truffle project and configure it on Infura 
 
 :heavy_check_mark: Create a mintable ERC721 smart contract 
